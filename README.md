@@ -1,3 +1,3 @@
 # git-sample-kana
 
-feature/login でREADME.mdを直接編集
+直接編集
